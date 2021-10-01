@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Happy Jekylling! - </title>
-    <link rel="stylesheet" href="/assets/css/main.css">
-  </head>
-  <body>
-    <h2 id="youre-ready-to-go">You’re ready to go!</h2>
+I"�<h2 id="youre-ready-to-go">You’re ready to go!</h2>
 
 <p>What up???</p>
 
@@ -18,6 +9,4 @@
 <p>No maths!</p>
 
 <iframe src="https://ntu.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=894e2520-46b3-4c7e-9666-acbc00eee050&amp;autoplay=false&amp;offerviewer=true&amp;showtitle=true&amp;showbrand=false&amp;start=0&amp;interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen="" allow="autoplay"></iframe>
-
-  </body>
-</html>
+:ET
